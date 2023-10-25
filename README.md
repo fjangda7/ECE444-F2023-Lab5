@@ -1,6 +1,6 @@
-#ECE444-F2023-Lab5
+# ECE444-F2023-Lab5
 
-#What are the pros and cons of TDD?
+## What are the pros and cons of TDD?
 
 On the positive side, TDD can significantly enhance code quality. When developers write code guided by pre-existing tests, they gain a clear understanding of the expected input-output relationships and follow better coding practices, resulting in fewer bugs. Debugging becomes more straightforward, as developers can run tests to compare expected and actual outcomes. Over the long term, TDD breaks the project into manageable components, making the codebase more maintainable.
 
